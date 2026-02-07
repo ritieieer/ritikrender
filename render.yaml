@@ -8,14 +8,14 @@ services:
     autoDeploy: true
     envVars:
       - key: TELEGRAM_BOT_TOKEN
-        value: "8526984149:AAENzT916bRFEAd7o-Zv7uk5rMk-lAioKH8"
+        value: "8487271564:AAFxXGmmIl73iflDp8EPuNn-5y-AtoH4NhQ"
       - key: OWNER_ID
-        value: "8406101760"
+        value: "7964730489"
       - key: ADMIN_ID
-        value: "8406101760"
+        value: "7964730489"
       - key: YOUR_USERNAME
-        value: "@ritikxyzhost"
+        value: "@Cyz_778_bot"
       - key: UPDATE_CHANNEL
-        value: "https://t.me/ritikxyzhost"
+        value: "https://t.me/Xyzr4"
       - key: PORT
         value: "10000"
